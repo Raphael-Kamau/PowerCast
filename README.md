@@ -48,13 +48,10 @@ Other: GitHub Actions (CI/CD)
 ## 📂 Project Structure
 Code
 ```
-powercast/
-├── backend/        # Express routes, models, controllers
-├── frontend/       # React components, hooks, styles
-├── utils/          # Currency conversion, data mapping
-├── tests/          # Unit and integration tests
-├── README.md       # Project documentation
-└── package.json    # Dependencies and scripts
+PowerCast/
+├── server/        # Express routes, models, controllers
+├── app/       # React components, hooks, styles
+└── README.md       # Project documentation
 ```
   
 ## 📊 Example Dashboard
