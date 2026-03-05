@@ -6,6 +6,7 @@ PowerCast is a comprehensive energy monitoring and prediction platform designed 
 
 ## 🌟 Features
 - **Device Breakdown:** Interactive charts showing energy usage per device.
+
   <img width="422" height="589" alt="image" src="https://github.com/user-attachments/assets/3ed483e4-1255-4290-93bc-da9ca5a89a94" />
   
 - **Alert Panels:** Real-time notifications for unusual consumption, outages, or threshold breaches.
