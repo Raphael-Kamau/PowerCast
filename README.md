@@ -1,6 +1,8 @@
 # PowerCast ⚡
 
 PowerCast is a comprehensive energy monitoring and prediction platform designed to give users clear insights into their power consumption. It provides device-level breakdowns, real-time alerts, and local currency support to make energy data accessible, actionable, and user-friendly.
+<img width="1235" height="664" alt="image" src="https://github.com/user-attachments/assets/0b5c4306-9adc-4f5c-84bb-758aad6bad3a" />
+
 
 ---
 
